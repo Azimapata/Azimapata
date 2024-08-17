@@ -54,7 +54,7 @@ I maintain a logbook where I document my learning progress, particularly in fron
 I enjoy experimenting with new tech and finding ways to enhance my productivity, both in coding and in everyday life. Also, I play chess online and continuously strive to improve, even if it means learning from a few losses along the way!
 
 📫 How to reach me...
-Email: [Your Email Address]
-LinkedIn: [Your LinkedIn Profile]
-Twitter: [Your Twitter Handle]
+Email: apataazeem01@gmail.com
+LinkedIn: 
+Twitter: 
 
