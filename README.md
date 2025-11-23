@@ -15,18 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->  
 Hi there! 👋 I'm Apata Azeem
-Welcome to my GitHub! I’m a passionate web developer exploring the exciting worlds of frontend, backend, and app development, with a touch of UI/UX design. Here’s a quick glance at what I’m all about:
+Welcome to my GitHub! I’m a passionate web developer exploring the exciting worlds of frontend, backend, and app development. Here’s a quick glance at what I’m all about:
 
 🚀 What I Do
 
 Frontend Development: Crafting dynamic UIs with JavaScript, React, and Tailwind CSS.
 Backend Exploration: Diving into Node.js, Express, and databases to grow my full-stack skills.
-UI/UX Design: Creating user-friendly interfaces with tools like Figma and Adobe XD.
 App Development: Exploring frameworks like React Native and Flutter to build mobile apps.
 🛠️ Current Projects
 
 Dynamic Multi-Step Forms: State-driven forms with seamless sidebars.
-Toggle Features: Switching between plans with responsive UI.
+Toggle Features: Switching between plans with a responsive UI.
 Creative Layouts: Designing unique image placements and layouts.
 🌱 Learning Journey
 
