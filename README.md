@@ -21,6 +21,7 @@
 
 <h2>🌱 I’m Currently Learning</h2>
 <ul>
+   <li><strong>Next.js</strong> — App Router, server components, API routes</li>
   <li><strong>React.js</strong> — Hooks, components, state management</li>
   <li><strong>TypeScript</strong> — type safety and scalable patterns</li>
   <li><strong>Node.js & Express</strong> — backend development and APIs</li>
