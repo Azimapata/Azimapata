@@ -1,44 +1,63 @@
+<h1 align="center">👋 Hi, I'm <span style="font-weight: 800;">Azeem Apata</span></h1>
+<p align="center">Aspiring Full-Stack Developer | Exploring DevOps & DevSecOps</p>
 
 
-<!--
-**Azimapata/Azimapata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2>🚀 About Me</h2>
+<p>
+  I am an aspiring <strong>Full-Stack Developer</strong> and a Computer Science student with a strong passion for building clean, interactive, and user-focused digital experiences.
+  My core strength lies in <strong>Frontend Development</strong>, where I enjoy crafting modern interfaces using 
+  <strong>JavaScript</strong>, <strong>React</strong>, and <strong>Tailwind CSS</strong>.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->  
-Hi there! 👋 I'm Apata Azeem
-Welcome to my GitHub! I’m a passionate web developer exploring the exciting worlds of frontend, backend, and app development. Here’s a quick glance at what I’m all about:
+<p>
+  I'm committed to continuous growth — learning new technologies, improving my problem-solving skills,
+  and working on real-world projects that help me evolve as a developer.  
+  I’ve also developed a growing interest in <strong>DevOps</strong> and <strong>DevSecOps</strong>, exploring automation,
+  deployment pipelines, and secure development practices.
+</p>
 
-🚀 What I Do
 
-Frontend Development: Crafting dynamic UIs with JavaScript, React, and Tailwind CSS.
-Backend Exploration: Diving into Node.js, Express, and databases to grow my full-stack skills.
-App Development: Exploring frameworks like React Native and Flutter to build mobile apps.
-🛠️ Current Projects
 
-Dynamic Multi-Step Forms: State-driven forms with seamless sidebars.
-Toggle Features: Switching between plans with a responsive UI.
-Creative Layouts: Designing unique image placements and layouts.
-🌱 Learning Journey
+<h2>🌱 I’m Currently Learning</h2>
+<ul>
+  <li><strong>React.js</strong> — Hooks, components, state management</li>
+  <li><strong>TypeScript</strong> — type safety and scalable patterns</li>
+  <li><strong>Node.js & Express</strong> — backend development and APIs</li>
+  <li><strong>DevOps & DevSecOps</strong> — CI/CD, GitHub Actions, security tools</li>
+  <li>Exploring <strong>React Native</strong> & <strong>Flutter</strong> for mobile development</li>
+</ul>
 
-I’m focused on mastering React (useState, useEffect, hooks) and leveling up my skills in JavaScript and TypeScript. On the backend, I’m learning the ropes of Node.js and Express to expand my expertise.
 
-🎨 Beyond Coding
+<h2>🌍 Connect With Me</h2>
+<p>
+  <a href="https://github.com/Azimapata"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
+  <a href="https://linkedin.com/in/azeem-apata"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://x.com/apata_azeem"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
+  <a href="mailto:apataazeem01@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+</p>
 
-Chess Enthusiast: Always strategizing, learning openings, and improving my game.
-Productivity Explorer: Experimenting with tech to enhance workflows.
-📫 Let’s Connect
 
-Email: apataazeem01@gmail.com
-LinkedIn: [Your Profile Link]
-Twitter: [Your Handle]
+<h2>🛠️ Tech Stack</h2>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts,nodejs,express,git,github" />
+</p>
+
+
+<h2>📊 GitHub Stats</h2>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img style="width: 48%;" src="https://github-readme-stats.vercel.app/api?username=Azimapata&show_icons=true&theme=default&hide_border=true" />
+  <img style="width: 48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azimapata&layout=compact&theme=default&hide_border=true" />
+</div>
+
+
+
+
+<h2>🎨 Beyond Code</h2>
+<ul>
+  <li>♟️ Chess lover — improving my openings</li>
+  <li>⚡ Always exploring tools that boost productivity</li>
+</ul>
 
 
