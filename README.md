@@ -5,7 +5,7 @@
 
 <h2>🚀 About Me</h2>
 <p>
-  I am an aspiring <strong>Full-Stack Developer</strong> and a Computer Science student with a strong passion for building clean, interactive, and user-focused digital experiences.
+  I am an aspiring <strong>Full-Stack Developer</strong> and a Computer Science graduate with a strong passion for building clean, interactive, and user-focused digital experiences.
   My core strength lies in <strong>Frontend Development</strong>, where I enjoy crafting modern interfaces using 
   <strong>JavaScript</strong>, <strong>React</strong>, and <strong>Tailwind CSS</strong>.
 </p>
