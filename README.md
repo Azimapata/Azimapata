@@ -13,7 +13,7 @@
 <p>
   I'm committed to continuous growth — learning new technologies, improving my problem-solving skills,
   and working on real-world projects that help me evolve as a developer.  
-  I’ve also developed a growing interest in <strong>DevOps</strong> and <strong>DevSecOps</strong>, exploring automation,
+  I’ve also developed a growing interest in <strong>Backend Development</strong> and also <strong>DevOps</strong> and <strong>DevSecOps</strong>, exploring automation,
   deployment pipelines, and secure development practices.
 </p>
 
